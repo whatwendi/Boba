@@ -3,4 +3,6 @@ body {
     font-family: 'fantasy';
     background: rgb(84, 51, 230);
     color: rgb(131, 131, 238);
+     margin-top: 90px;
+     margin-bottom: 100px;
 }
